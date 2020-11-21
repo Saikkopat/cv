@@ -1,0 +1,17 @@
+.title {
+    font-family: Helvetica, Arial, sans-serif;
+}
+.centralTitle {
+    font-size: 6rem;
+    color: #eeeeee;
+    font-weight: 300;
+}
+.subTitle {
+    color: #d72323;
+
+}
+#home {
+    position: absolute;
+    text-align: center;
+    padding: 15% 24%;
+}
