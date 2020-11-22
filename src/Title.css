@@ -7,11 +7,12 @@
     font-weight: 300;
 }
 .subTitle {
-    color: #d72323;
-
+    color: #eeeeee;
+    font-size: 2rem;
+    padding: 7px;
 }
 #home {
-    position: absolute;
+    position: sticky;
     text-align: center;
-    padding: 15% 24%;
+    padding: 14% 24%;
 }

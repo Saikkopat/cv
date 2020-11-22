@@ -1,0 +1,13 @@
+.profilePhoto {
+    width: 50%;
+    height: auto;
+    border-radius: 8px;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#about-me {
+    position: sticky;
+}
