@@ -1,0 +1,35 @@
+#education {
+    position: sticky;
+    text-align: center;
+}
+
+.eduTitle {
+    text-align: center;
+    color: #eeeeee;
+    font-size: 2rem;
+    padding: 2rem;
+}
+
+.eduCard {
+    margin: 1rem;
+    color: #3a4750;
+}
+
+.pictureSchool {
+    position: relative;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: .5rem;
+}
+
+.firstSchool {
+    height: 80%;
+    width: 45%;
+}
+
+.secondSchool {
+    height: 90%;
+    width: 70%;
+}

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import {Navbar, Nav } from 'react-bootstrap';
-import RedLanternIcon from "./favicon.ico";
+import RedLanternIcon from "./images/favicon.ico";
 class MyNavbar extends Component {
   render() {
     return (
@@ -10,7 +10,7 @@ class MyNavbar extends Component {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
             <Nav.Link href="#about-me">About me</Nav.Link>
-            <Nav.Link href="#pricing">Education</Nav.Link>
+            <Nav.Link href="#education">Education</Nav.Link>
             <Nav.Link href="#pre-exp">Previous works</Nav.Link>
             <Nav.Link href="#proyects">Proyects</Nav.Link>
           </Nav>

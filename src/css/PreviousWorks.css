@@ -1,0 +1,17 @@
+#pre-exp {
+    position: sticky;
+    text-align: center;
+    color: #eeeeee;
+    margin: 2em 0 2em;
+}
+
+.svgIcon {
+    width: 80%;
+    height: 80%;
+    position: relative;
+    display: block;
+    margin: auto;
+    padding: 2em;
+    background: #3a4750;
+}
+

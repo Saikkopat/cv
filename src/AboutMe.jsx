@@ -1,17 +1,17 @@
 import React, { Component } from "react";
 import { Container, Row, Col, Jumbotron } from "react-bootstrap";
-import profilePhoto from "./profile-photo.jpg";
-import "./AboutMe.css";
+import profilePhoto from "./images/profile-photo.jpg";
+import "./css/AboutMe.css";
 class AboutMe extends Component {
   render() {
     return (
       <div id="about-me">
         <Container fluid>
           <Row>
-            <Col>
+            <Col sm={5}>
             <img src={profilePhoto} className="profilePhoto" alt="Angel Cardenas" />
             </Col>
-            <Col>
+            <Col sm={7}>
               <Jumbotron>
                 <Container>
                     <h1>
