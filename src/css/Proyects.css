@@ -1,0 +1,16 @@
+#proyects {
+    position: sticky;
+}
+
+.carouselText {
+    color: #eeeeee;
+    text-align: center;
+}
+
+.carouselTitle {
+    font-size: 3rem;
+}
+
+.carousel {
+    padding: 3em;
+}

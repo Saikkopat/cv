@@ -12,7 +12,7 @@ class Education extends Component {
         <Container>
           <Row>
             <Col>
-              <Card bg={"dark"} text={"light"} className="eduCard">
+              <Card bg={"secondary"} text={"light"} className="eduCard">
                 <Card.Header>Vocational School</Card.Header>
                 <Card.Body>
                   <Card.Title>Technical Programmer</Card.Title>
@@ -30,7 +30,7 @@ class Education extends Component {
           </Row>
           <Row>
             <Col>
-              <Card bg={"dark"} text={"light"} className="eduCard">
+              <Card bg={"secondary"} text={"light"} className="eduCard">
                 <Card.Header>Higher Education</Card.Header>
                 <Card.Body>
                   <Card.Title>Computational Systems Engineer</Card.Title>
