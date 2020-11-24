@@ -1,31 +1,37 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.9601c8f4.chunk.css",
-    "main.js": "/cv/static/js/main.defae3a1.chunk.js",
-    "main.js.map": "/cv/static/js/main.defae3a1.chunk.js.map",
-    "runtime-main.js": "/cv/static/js/runtime-main.39053cfc.js",
-    "runtime-main.js.map": "/cv/static/js/runtime-main.39053cfc.js.map",
+    "main.css": "/cv/static/css/main.5488ce2a.chunk.css",
+    "main.js": "/cv/static/js/main.791a3eed.chunk.js",
+    "main.js.map": "/cv/static/js/main.791a3eed.chunk.js.map",
+    "runtime-main.js": "/cv/static/js/runtime-main.c9e5eb63.js",
+    "runtime-main.js.map": "/cv/static/js/runtime-main.c9e5eb63.js.map",
     "static/css/2.1a02f21c.chunk.css": "/cv/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.afe606eb.chunk.js": "/cv/static/js/2.afe606eb.chunk.js",
-    "static/js/2.afe606eb.chunk.js.map": "/cv/static/js/2.afe606eb.chunk.js.map",
-    "static/js/3.1f58ef26.chunk.js": "/cv/static/js/3.1f58ef26.chunk.js",
-    "static/js/3.1f58ef26.chunk.js.map": "/cv/static/js/3.1f58ef26.chunk.js.map",
+    "static/js/2.52bdc43a.chunk.js": "/cv/static/js/2.52bdc43a.chunk.js",
+    "static/js/2.52bdc43a.chunk.js.map": "/cv/static/js/2.52bdc43a.chunk.js.map",
+    "static/js/3.e128b76a.chunk.js": "/cv/static/js/3.e128b76a.chunk.js",
+    "static/js/3.e128b76a.chunk.js.map": "/cv/static/js/3.e128b76a.chunk.js.map",
     "index.html": "/cv/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/cv/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.9601c8f4.chunk.css.map": "/cv/static/css/main.9601c8f4.chunk.css.map",
-    "static/js/2.afe606eb.chunk.js.LICENSE.txt": "/cv/static/js/2.afe606eb.chunk.js.LICENSE.txt",
+    "static/css/main.5488ce2a.chunk.css.map": "/cv/static/css/main.5488ce2a.chunk.css.map",
+    "static/js/2.52bdc43a.chunk.js.LICENSE.txt": "/cv/static/js/2.52bdc43a.chunk.js.LICENSE.txt",
     "static/media/comment-slash-solid.754505d3.svg": "/cv/static/media/comment-slash-solid.754505d3.svg",
+    "static/media/envelope-square-solid.afbd0f04.svg": "/cv/static/media/envelope-square-solid.afbd0f04.svg",
     "static/media/favicon.07987b9a.ico": "/cv/static/media/favicon.07987b9a.ico",
+    "static/media/github-square-brands.2e92de57.svg": "/cv/static/media/github-square-brands.2e92de57.svg",
+    "static/media/gitlab-brands.922f04d1.svg": "/cv/static/media/gitlab-brands.922f04d1.svg",
     "static/media/higherschool.abb2b529.png": "/cv/static/media/higherschool.abb2b529.png",
     "static/media/phone-slash-solid.97467ea5.svg": "/cv/static/media/phone-slash-solid.97467ea5.svg",
     "static/media/profile-photo.0c8f9e8c.jpg": "/cv/static/media/profile-photo.0c8f9e8c.jpg",
-    "static/media/vocationalschool.e7a28a4a.png": "/cv/static/media/vocationalschool.e7a28a4a.png"
+    "static/media/telegram-brands.6785dbc8.svg": "/cv/static/media/telegram-brands.6785dbc8.svg",
+    "static/media/twitter-square-brands.ff92bc84.svg": "/cv/static/media/twitter-square-brands.ff92bc84.svg",
+    "static/media/vocationalschool.e7a28a4a.png": "/cv/static/media/vocationalschool.e7a28a4a.png",
+    "static/media/whatsapp-square-brands.8e99f050.svg": "/cv/static/media/whatsapp-square-brands.8e99f050.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.39053cfc.js",
+    "static/js/runtime-main.c9e5eb63.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.afe606eb.chunk.js",
-    "static/css/main.9601c8f4.chunk.css",
-    "static/js/main.defae3a1.chunk.js"
+    "static/js/2.52bdc43a.chunk.js",
+    "static/css/main.5488ce2a.chunk.css",
+    "static/js/main.791a3eed.chunk.js"
   ]
 }
