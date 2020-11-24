@@ -15,7 +15,7 @@ class MyNavbar extends Component {
             <Nav.Link href="#proyects">Proyects</Nav.Link>
           </Nav>
           <Nav>
-            <Nav.Link href="#contact">Contact me</Nav.Link>
+            <Nav.Link href="#contact-me">Contact me</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
